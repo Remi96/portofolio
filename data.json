@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "screenshot": "images/desy.jpeg",
+    "screenshot": "#",
     "title": "Application d'achat et de vente de nourriture",
     "info": "Développement d’une application d’achat et de vente de nourriture ZaxoEat en Flutter",
     "link": "#",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "screenshot": "images/desy.jpeg",
+    "screenshot": "#",
     "title": "Application de publicité",
     "info": "Développement d’une application de publicité OnLike en Flutter",
     "link": "#",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "screenshot": "images/desy.jpeg",
+    "screenshot": "#",
     "title": "Application de vente de livre",
     "info": "Développement d’une application de vente de livre HBook en Flutter",
     "link": "#",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "screenshot": "images/desy.jpeg",
+    "screenshot": "#",
     "title": "E-commerce MarketPlace",
     "info": "Développement d’une application e-commerce MarketPlace en Flutter",
     "link": "#",
