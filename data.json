@@ -2,56 +2,56 @@
   {
     "id": 1,
     "screenshot": "images/synibox-site-web.png",
-    "title": "Site web IA de gestion de chat",
-    "info": "Participation au développement du site web  d'une IA centralisée qui gère le Chat, WhatsApp, Email, Facebook, et Instagram. Réponses instantanées, multilingues, sans intervention humaine avec React Js",
+    "title": "AI chat management website",
+    "info": "Participation in the development of a centralized AI website that manages Chat, WhatsApp, Email, Facebook, and Instagram. Instant, multilingual responses without human intervention using React Js",
     "link": "https://www.synibox.io/",
     "type": "client_project"
   },
   {
     "id": 2,
     "screenshot": "images/synibox-app.png",
-    "title": "IA de gestion de chat",
-    "info": "Participation au développement d'une IA centralisée qui gère le Chat, WhatsApp, Email, Facebook, et Instagram. Réponses instantanées, multilingues, sans intervention humaine avec React Js",
+    "title": "Chat management AI",
+    "info": "Participation in the development of a centralized AI that manages Chat, WhatsApp, Email, Facebook, and Instagram. Instant, multilingual responses without human intervention using React Js",
     "link": "https://app.synibox.io/",
     "type": "client_project"
   },
   {
     "id": 3,
     "screenshot": "images/legihub.png",
-    "title": "Site web de digitalisation",
-    "info": "Participation au développement d'un site web de digitalisation du processus de documentation liée à la création ainsi qu'au développement d'une entreprise en Flutter",
+    "title": "Digitalization website",
+    "info": "Participation in the development of a website for digitizing the documentation process related to the creation and development of a company using Flutter",
     "link": "https://www.legihub.fr/",
     "type": "client_project"
   },
   {
     "id": 4,
     "screenshot": "images/desy.jpeg",
-    "title": "Application de gestion de budget",
-    "info": "Participation au développement d'une application mobile de gestion de budget en Flutter",
+    "title": "Budget management application",
+    "info": "Participation in the development of a mobile budget management application using Flutter.",
     "link": "#",
     "type": "client_project"
   },
   {
     "id": 5,
     "screenshot": "#",
-    "title": "Application d'achat et de vente de nourriture",
-    "info": "Développement d’une application d’achat et de vente de nourriture ZaxoEat en Flutter",
+    "title": "Food buying and selling application",
+    "info": "Development of a food buying and selling application, ZaxoEat, using Flutter.",
     "link": "#",
     "type": "client_project"
   },
   {
     "id": 6,
     "screenshot": "#",
-    "title": "Application de publicité",
-    "info": "Développement d’une application de publicité OnLike en Flutter",
+    "title": "Advertising application",
+    "info": "Development of an advertising application, OnLike, using Flutter",
     "link": "#",
     "type": "client_project"
   },
   {
     "id": 7,
     "screenshot": "#",
-    "title": "Application de vente de livre",
-    "info": "Développement d’une application de vente de livre HBook en Flutter",
+    "title": "Book selling application",
+    "info": "Development of a book selling application, HBook, using Flutter",
     "link": "#",
     "type": "client_project"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "screenshot": "#",
     "title": "E-commerce MarketPlace",
-    "info": "Développement d’une application e-commerce MarketPlace en Flutter",
+    "info": "Development of an e-commerce application, MarketPlace, using Flutter",
     "link": "#",
     "type": "client_project"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "screenshot": "images/zac.jpeg",
     "title": "ZAC Transport",
-    "info": "Développement d’une application de réservation de ticket de Bus en Flutter",
+    "info": "Development of a bus ticket booking application using Flutter",
     "link": "#",
     "type": "client_project"
   },
@@ -75,15 +75,15 @@
     "id": 10,
     "screenshot": "images/solfat.jpeg",
     "title": "Solfat",
-    "info": "Développement d'une application de déchiffrage de music en Flutter",
+    "info": "Development of a music decoding application using Flutter.",
     "link": "#",
     "type": "personal_project"
   },
   {
     "id": 11,
     "screenshot": "images/maep.png",
-    "title": "Site web MAEP Bénin",
-    "info": "Participation au développement du site internet et du dashboard d'administration de MAEP du Bénin en Laravel",
+    "title": "MAEP Benin web site",
+    "info": "Participation in the development of the website and the administration dashboard of MAEP Benin using Laravel",
     "link": "https://agriculture.gouv.bj",
     "type": "client_project"
   }

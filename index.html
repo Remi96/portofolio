@@ -25,9 +25,37 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css"> 
     <link rel="stylesheet" type="text/css" href="style/style.css" />
 
+    <style>
+      /* Cibler le texte de la langue sélectionnée */
+      #google_translate_element select {
+        color: black !important; /* Mettre le texte de la langue en noir */
+      }
+    
+      /* Modifier le texte du menu déroulant */
+      #google_translate_element .goog-te-menu-value {
+        color: black !important;
+      }
+    
+      /* Optionnel : styliser le menu déroulant */
+      /* #google_translate_element select option {
+        color: black !important;
+      } */
+    </style>
+
     
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
     <script defer src="data.json"></script>
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en', // Langue de votre page (par exemple, 'en' pour anglais)
+          includedLanguages: 'en,fr,de,es,it', // Langues disponibles pour la traduction
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        }, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   </head>
 
   <body>
@@ -51,6 +79,7 @@
             <li><a href="#skills">Skills</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><div style="width: 80px;" id="google_translate_element"></div></li>
           </ul>
         </nav>
       </div>
@@ -323,6 +352,16 @@
 
             
             <div class="skill-name">JEE</div>
+            <div class="skill-bar">
+              <div
+                class="skill-per"
+                per="70%"
+                id="skill"
+                style="max-width: 70%"
+              ></div>
+            </div>
+
+            <div class="skill-name">Laravel</div>
             <div class="skill-bar">
               <div
                 class="skill-per"
