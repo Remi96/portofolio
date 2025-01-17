@@ -10,7 +10,7 @@
   {
     "id": 2,
     "screenshot": "images/synibox-app.png",
-    "title": "Chat management AI",
+    "title": "AI messaging management",
     "info": "Participation in the development of a centralized AI that manages Chat, WhatsApp, Email, Facebook, and Instagram. Instant, multilingual responses without human intervention using React Js",
     "link": "https://app.synibox.io/",
     "type": "client_project"
